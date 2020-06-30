@@ -1,6 +1,6 @@
 ---
 title: "Welcome to My New Beginner in Tech Blog!"
-date: 2020-06-26
+date: 2020-06-29
 ---
  
  Welcome everyone to my new blog!
