@@ -1,4 +1,4 @@
- ---
+---
 title: "Welcome to My New Beginner in Tech Blog!"
 date: 2020-06-26
 ---
