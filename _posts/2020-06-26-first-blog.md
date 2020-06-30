@@ -1,4 +1,4 @@
- Welcome to my new 'beginner in tech' blog! 
+ Welcome everyone to my new blog!
   I'm Stephanie, a Latina science educator from the Bronx.
   Embarking on a new journey to learn how to program. 
   I will be sharing bits about myself,
