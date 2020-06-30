@@ -15,4 +15,3 @@ date: 2020-06-20
  Hobbies & Likes: Photography, reading, cooking, traveling, and art/history museums.
  I'm currently reading The Color of Law and The Automatic Millionaire.
  
- #end
