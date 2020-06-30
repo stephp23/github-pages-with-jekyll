@@ -6,12 +6,13 @@ description: > # this means to ignore newlines until "baseurl:"
   I will be sharing bits about myself,
   along with my experiences as I start learning how to code.
   
-#line in _config.yml. It will appear in your document head meta (for
-#Google search results) and in your feed.xml site description.
-  
-theme: jekyll-theme-slate
-
 # social links
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-instagram_username: steph_p_23
+github_username:  stephp23
+instagram_username:  steph_p_23
 show_excerpts: false # set to false to remove excerpts on the homepage
+
+theme: minima
+#page theme
+
+
+
