@@ -1,6 +1,6 @@
 ---
 title: "Welcome to My New Beginner in Tech Blog!"
-date: 2020-06-29
+date: 2020-06-20
 ---
  
  Welcome everyone to my new blog! I'm Stephanie, a Latina science educator from the Bronx.
