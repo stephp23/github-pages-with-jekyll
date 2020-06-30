@@ -1,13 +1,33 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Stephanie's Starting Out in Tech Blog
+author: Stephanie Pena
+email: stephp23@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my new 'beginner in tech' blog! 
+  I'm Stephanie, a Latina science educator from the Bronx.
+  Embarking on a new journey to learn how to program. 
+  I will be sharing bits about myself,
+  along with my experiences as I start learning how to code.
+  
+  I'm diving straight in by learning Python.
+  Data Analytics is my intended niche in the tech world. 
+  Striving to use in-depth data analysis to better understand issues 
+  in the STEM educational fields, to arrive at proactive solutions. 
+  Hoping to develop my own STEM educational app in the future!
+  
+  
+  Current Profession: Part-time Adjunct Lecturer at a NYC community college.
+  Academic Background: Geologist with a concentration in geobiology and microbes.
+  Hobbies & Likes: Photography, reading, cooking, traveling, and art/history museums.
+  
+  Currently Reading: The Color of Law and The Automatic Millioanire.
+  
+  
+#line in _config.yml. It will appear in your document head meta (for
+#Google search results) and in your feed.xml site description.
+  
+theme: minima
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
-show_excerpts: true # set to false to remove excerpts on the homepage
+instagram_username: steph_p_23
+show_excerpts: false # set to false to remove excerpts on the homepage
